@@ -7,3 +7,7 @@ We compared global and regional values of mean 2m temperature, sea-surface tempe
 The RCP 2.5 model indicated small changes from current trends, such as a rise in maximum temperature by ~1K. Running RCP 8.5 revealed the drastic rise in global minimum temperature by 27K, and intensification of temperatures, pressure and precipitation over the regional area. 
 
 We then ran comparisons between the ERA5 and NCEP reanalysis data, and found that NCEP has a much lower resolution and thus precision versus ERA5
+
+## References
+This term project was heavily based on @royalosyin 's Python-Practical-Application-on-Climate-Variability-Studies
+Link: https://github.com/royalosyin/Python-Practical-Application-on-Climate-Variability-Studies
